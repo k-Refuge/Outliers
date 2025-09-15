@@ -38,9 +38,12 @@ Authors
 
 This work was carried out by:
 
-Kenza
+Kenza 
+
 Aimie
+
 Sarah
+
 Arthur
 
 Students in Data Science Engineering ? CY Tech 
