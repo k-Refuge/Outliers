@@ -2,7 +2,7 @@
 
 In this repository, you will find a collection of methods to detect outliers, applied to the dataset all_data.
 
-    1.Implemented Methods
+    Implemented Methods :
 
     2.IQR (Interquartile Range)
 
@@ -30,11 +30,7 @@ In this repository, you will find a collection of methods to detect outliers, ap
 
     14.Autoencoder
 
-Notes
-
-Visual techniques (scatter plots, pair plots, histograms, heatmaps, QQ plots) are used for exploratory analysis.
-
-Machine learning–based techniques (Isolation Forest, Autoencoder, One-Class SVM, DBSCAN, t-SNE) provide more advanced anomaly detection.
+Notes:
 
 A short explanation of the differences between some methods is also included, with possible generalizations.
 
@@ -43,11 +39,8 @@ Authors
 This work was carried out by:
 
 Kenza
-
 Aimie
-
 Sarah
-
 Arthur
 
 Students in Data Science Engineering ? CY Tech 
